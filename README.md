@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://github.com/shivamShankhdhar.png" width="150" style="border-radius: 50%" />
+</p>
+
 # 👋 Hi, I'm Shivam Shankhdhar  
 
 🚀 Full-Stack Developer | React Native | Spring Boot | Java | MERN | WebRTC  
 
 ### 🌟 About Me
-- 🔭 Currently building **real-time applications** (chat, video calls, collaboration tools)  
+- 🎓 B.Tech in **Computer Science**  
+- 🎓 Post Graduate Diploma in **Advanced Computing (PG-DAC)**  
 - 🌱 Exploring **microservices with Spring Boot** and **scalable backend systems**  
 - 💡 Love creating **cross-platform mobile apps** with React Native  
-- 🛠 Experienced in **Java, Spring Boot, REST APIs, and cloud-native solutions**  
 - 🎯 Goal: Contribute to **open-source projects** and build impactful products  
 
 ---
@@ -32,7 +36,11 @@
 
 ### 📊 GitHub Stats
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamShankhdhar&show_icons=true&theme=radical)  
- 
+
+---
+
+### 📫 Connect With Me
+- 📧 **Email:** er.shivam1214@gmail.com  
 
 ---
 
