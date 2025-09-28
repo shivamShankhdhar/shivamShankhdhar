@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" height="150" style="border-radius:50%;" />
+  <img src="https://github.com/shivamShankhdhar.png" width="150" />
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm Shivam Shankhdhar</h1>
