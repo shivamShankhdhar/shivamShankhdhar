@@ -32,13 +32,7 @@
 
 ### 📊 GitHub Stats
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamShankhdhar&show_icons=true&theme=radical)  
-
----
-
-### 📫 Connect With Me
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-link)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+ 
 
 ---
 
