@@ -8,11 +8,17 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 B.Tech in **Computer Science**  
-- 🎓 Post Graduate Diploma in **Advanced Computing (PG-DAC)**  
-- 🌱 Exploring **microservices with Spring Boot** and **scalable backend systems**  
-- 💡 Love creating **cross-platform mobile apps** with React Native  
-- 🎯 Goal: Contribute to **open-source projects** and build impactful products  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Computer_Science-6A5ACD?style=for-the-badge&logo=graduated&logoColor=white" />
+  <img src="https://img.shields.io/badge/PG_Diploma-Advanced_Computing-20B2AA?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌱-Exploring_Microservices_with_Spring_Boot-FF6F61?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/💡-Love_Building_Cross_Platform_Apps_with_React_Native-00BFFF?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/🎯-Contributing_to_Open_Source_and_Building_Products-FFD700?style=for-the-badge" />
+</div>
 
 ---
 
